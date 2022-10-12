@@ -1,6 +1,6 @@
 # xen_claimer_bsc
 
-Софт на xen.network(https://xen.network) 
+Софт на xen.network (https://xen.network) 
 
 Сбор токенов с фермы кошелей и отправка на основной адрес (одной транзакцией)
 
